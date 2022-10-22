@@ -16,3 +16,5 @@ Congratulations on successfully submitting the timesheet! There will be a green 
 ![](chrome_pavnELYfbo.png)
 
 Exit out of the Chrome instance if there are no more shifts to submit.
+
+Online timesheet (instuctions)[https://www.consumerdirectva.com/wp-content/uploads/2019/01/V4_TimeEntry_Revised_20190106.pdf]
