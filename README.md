@@ -1,3 +1,5 @@
+**The actual screen may look different because names have been redacted.**
+
 Click on the "Submit timesheet for {date}" button.
 ![](CDWA_d6GOkU03Jj.png)
 
