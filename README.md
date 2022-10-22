@@ -12,6 +12,7 @@ Click "OK" to accept CDWA's Medicaid Fraud attestation.
 ![](chrome_RayidmQXNZ.png)
 
 Congratulations on successfully submitting the timesheet! There will be a green pop-up in the upper right hand of the webpage as a confirmation.
+<br>
 ![](chrome_pavnELYfbo.png)
 
 Exit out of the Chrome instance if there are no more shifts to submit.
