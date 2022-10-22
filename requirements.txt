@@ -1,0 +1,5 @@
+seleniumbase
+streamlit
+webdriver_manager
+webdriver_manager.utils
+selenium
