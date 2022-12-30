@@ -1,22 +1,6 @@
-**The actual screen may look different because names have been redacted.**
+# CDWA-DSHS Timesheet Automation
 
-Click on the "Submit timesheet for {date}" button.
-![](CDWA_d6GOkU03Jj.png)
+Title: CDWA Login Automation
 
-Click on the personal care slot that correlates to today's date to submit your shift time.![](chrome_us0wvFhcaV.png)
+Meta Description: Save time by automating your login process for the CDWA timesheet system.
 
-Before inputting the time worked for a specific day, ensure that a minimum of two tasks are selected, preferably "Housework" and "Meal Preparation."
-![](chrome_x2luFKkrpZ.png)
-
-Submit the timesheet with both the hours and minutes filled.![](chrome_wXyLyvVzQm.png)
-
-Click "OK" to accept CDWA's Medicaid Fraud attestation. 
-![](chrome_RayidmQXNZ.png)
-
-Congratulations on successfully submitting the timesheet! There will be a green pop-up in the upper right hand of the webpage as a confirmation.
-<br>
-![](chrome_pavnELYfbo.png)
-
-Exit out of the Chrome instance if there are no more shifts to submit.
-
-Online timesheet instuctions: https://www.consumerdirectva.com/wp-content/uploads/2019/01/V4_TimeEntry_Revised_20190106.pdf
