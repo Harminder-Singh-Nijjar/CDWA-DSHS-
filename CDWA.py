@@ -107,6 +107,10 @@ def main():
 
 
 class App(customtkinter.CTk):
+    
+    #customtkinter.ScalingTracker.set_user_scaling(0.5)
+    customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
+    customtkinter.set_default_color_theme("dark-blue")  # Themes: "blue" (standard), "green", "dark-blue"
 
     WIDTH = 780
     HEIGHT = 420
